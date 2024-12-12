@@ -1,6 +1,9 @@
 # securely-bypassing
 in this repository I'm showing you how to bypass securly, WORKING AS OF December 2024
 
+> [!CAUTION]
+> I AM NOT RESPONSIBLE FOR ANY OF YOUR GUYS ACTIONS, OR IF YOU GET INTROUBLE, DO ANYTHING AT YOUR OWN RISK
+
 # `FIRST METHOD IS TO USE INSECURLY BY BYPASSI`
 simpy clict on one of the links below, once clicked an embed should come up at the top of your screen saying `"this exploit was found by bypassi`` the icons were made by ender (https://github.com/Ender-Ghost-Craft/insecurly-icons)"` once done click ok. it should redirect you to `"INSECURLY exploit (by bypassi)"` the black button that says `"drag this button into a new tab!"` do what it says, it a page should pop up, and there should be a `button`, `"securly is currently" then a flip switch, if green securly is on, if gray it is off.`
 links here if they dont work, and redirct you to a blocked securly page, that means your chromebook version isnt compatable, and I cant do anything about it
