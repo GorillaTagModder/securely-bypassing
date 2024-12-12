@@ -13,7 +13,7 @@ Links!!      ↓↓↓↓↓↓
 
 ## `3rd insecurly website` https://insecurly.vercel.app/
 
-# SECOND METHOD
+# `SECOND METHOD`
 
 Bookmarklets, bookmarklets are bookmarks that allows you to execute java scripts on just a new tab, most schools dont allow this, but there is a way.
 
